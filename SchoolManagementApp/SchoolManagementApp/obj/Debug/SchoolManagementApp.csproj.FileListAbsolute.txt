@@ -1,0 +1,10 @@
+C:\Users\Ucenik\source\repos\SchoolManagementApp\SchoolManagementApp\obj\Debug\SchoolManagementApp.csproj.AssemblyReference.cache
+C:\Users\Ucenik\source\repos\SchoolManagementApp\SchoolManagementApp\obj\Debug\SchoolManagementApp.Form1.resources
+C:\Users\Ucenik\source\repos\SchoolManagementApp\SchoolManagementApp\obj\Debug\SchoolManagementApp.Properties.Resources.resources
+C:\Users\Ucenik\source\repos\SchoolManagementApp\SchoolManagementApp\obj\Debug\SchoolManagementApp.csproj.GenerateResource.cache
+C:\Users\Ucenik\source\repos\SchoolManagementApp\SchoolManagementApp\obj\Debug\SchoolManagementApp.csproj.CoreCompileInputs.cache
+C:\Users\Ucenik\source\repos\SchoolManagementApp\SchoolManagementApp\bin\Debug\SchoolManagementApp.exe.config
+C:\Users\Ucenik\source\repos\SchoolManagementApp\SchoolManagementApp\bin\Debug\SchoolManagementApp.exe
+C:\Users\Ucenik\source\repos\SchoolManagementApp\SchoolManagementApp\bin\Debug\SchoolManagementApp.pdb
+C:\Users\Ucenik\source\repos\SchoolManagementApp\SchoolManagementApp\obj\Debug\SchoolManagementApp.exe
+C:\Users\Ucenik\source\repos\SchoolManagementApp\SchoolManagementApp\obj\Debug\SchoolManagementApp.pdb
